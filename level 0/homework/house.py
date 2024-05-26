@@ -1,8 +1,4 @@
 from turtle import *
-
-
-#we want to paint a house
-
 #step 1: draw a square
 width(7)
 color ("purple")
@@ -15,7 +11,6 @@ left(90)
 forward(200)
 left(90)
 #end the square
-
 forward(70)
 left(90)
 forward(100)
