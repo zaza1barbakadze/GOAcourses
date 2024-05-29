@@ -133,9 +133,6 @@ left(90)
 forward(5)
 left(270)
 
-
-
-
 penup()
 goto(-100,0)
 pendown()
