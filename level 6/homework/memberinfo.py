@@ -1,0 +1,11 @@
+name=input("what your name? ")
+print(name)
+surname=input("what is your surname? ")
+print(surname)
+age=input("how old are you? ")
+print(age)
+address=input("where you living?  ")
+print(address)
+gmail=input("what is your gmail? ")
+print(name + " " + surname + " " + age + " " + address + " " + gmail)
+
